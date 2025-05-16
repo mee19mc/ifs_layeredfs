@@ -1,0 +1,3 @@
+1. Create a directory in your `contents` folder called `data_mods (or any other folder name set by the compiled dll. Default is data_mods)`
+2. Inside the newly created folder, create another folder which will be the name of your mod.
+3. In that folder, that is where you put your layeredfs files structured like `data`.
